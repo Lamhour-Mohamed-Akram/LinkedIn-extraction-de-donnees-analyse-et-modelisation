@@ -1,1 +1,2 @@
 # LinkedIn-extraction-de-donnees-analyse-et-modelisation
+LinkedIn : extraction de données, analyse et modélisation -Préparation des données pour Machine learning ( Nettoyage ,Filtrage, Features engineering..) -Application des méthodes de machine learning (RondomForest, DecisionTree, KNeighbors, LogisticRegression ) -Outils : Python, Scikit-learn , pandas, numpy, matplotlib ,seaborn,  selenium, BeautifulSoup, Jupyter notebook..
